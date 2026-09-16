@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 · 85ub5oxj -->
-## Notification 1/2
-Round: Round 1
-To: noel_de_princess@yahoo.com, noelsspot@sbcglobal.net
-At: 2026-09-16 19:43:24
-Id: 85ub5oxj
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: nofire10@msn.com, nofleas@aol.com
+At: 2026-09-16 19:43:38
+Id: TC7o9kmC
